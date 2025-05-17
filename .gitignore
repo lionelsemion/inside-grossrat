@@ -6,3 +6,5 @@ spiders_smartvote.csv
 candidate_*_spider.png
 *.pt
 merged_votes.json
+examples/*
+spiders_votes.csv
