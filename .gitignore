@@ -5,3 +5,4 @@ votes.csv
 spiders.csv
 candidate_*_spider.png
 *.pt
+merged_votes.json
