@@ -2,5 +2,6 @@ abstimmungsliste.csv
 questions.csv
 candidates_with_questions.csv
 votes.csv
+spiders.csv
 candidate_*_spider.png
 *.pt
