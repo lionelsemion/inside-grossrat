@@ -10,6 +10,7 @@ requests = "*"
 pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
+nbstripout = "*"
 
 [dev-packages]
 
